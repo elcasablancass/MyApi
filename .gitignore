@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Vercel deployment directory (optional)
+.vercel/
+
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# npm package lock files (optional, but useful if you want to control exact versions)
+package-lock.json
+yarn.lock
